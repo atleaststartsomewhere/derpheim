@@ -7,7 +7,7 @@ Use the green "Code" button at the top and select "Download ZIP".
 
 # Installation
 
-Unzip the main finle, and then open each folder one by one. Copy all contents within and paste/move them to the following locations:
+Unzip the main file, and then open each folder one by one. Copy all contents within and paste/move them to the following locations:
 
 1. ValheimPlus -> Valheim Game Folder
 2. BepInEx -> Valheim Game Folder
