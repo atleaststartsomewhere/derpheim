@@ -7,15 +7,9 @@ Use the green "Code" button at the top and select "Download ZIP".
 
 # Installation
 
-Unzip the main file, and then open each folder one by one. Copy all contents within and paste/move them to the following locations:
-
-1. ValheimPlus -> Valheim Game Folder
-2. QuickStackStore -> Valheim/BepInEx/Plugins
-   - should be a .dll file loose inside the Plugins folder
-3. Jotunn -> Valheim/BepInEx/Plugins
-   - should be a Jotunn folder within the Plugins folder
-4. MultiUserChest -> Valheim/BepInEx/Plugins
-   - should be a MultiUserChest folder within the Plugins folder
+1. Unzip the main file
+2. Copy "Valheim" from within the ZIP and paste it OVER your current game folder in SteamApps
+3. Replace all contents, and then all the mods should disseminate into the proper locations
 
 # G-Portal Server Notes
 
