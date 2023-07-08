@@ -17,3 +17,7 @@ Unzip the main file, and then open each folder one by one. Copy all contents wit
    - should be a Jotunn folder within the Plugins folder
 5. MultiUserChest -> Valheim/BepInEx/Plugins
    - should be a MultiUserChest folder within the Plugins folder
+
+# G-Portal Server Notes
+
+- Requires manual update of BepInEx, Jotunn, and MultiUserChest mods, sourced from the respective libs in this repo.
