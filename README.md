@@ -1,4 +1,4 @@
-__v1.2023-07-08__
+__v2.2023-07-09__
 
 
 # Download
@@ -18,3 +18,14 @@ Use the green "Code" button at the top and select "Download ZIP".
 # G-Portal Server Notes
 
 - Requires manual update of Jotunn, HeightmapUnlimited, and MultiUserChest mods, sourced from the respective libs in this repo.
+
+
+# Changelog
+
+### v2.2023-07-09
+- Added MassFarming optional client mod
+- Added requisite Server + Client mod, "HeightmapUnlimited"
+
+### v1.2023-07-08
+
+- Initial build
