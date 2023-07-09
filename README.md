@@ -11,6 +11,10 @@ Use the green "Code" button at the top and select "Download ZIP".
 2. Copy "Valheim" from within the ZIP and paste it OVER your current game folder in SteamApps
 3. Replace all contents, and then all the mods should disseminate into the proper locations
 
+# Optional Client Mods
+
+1. MassFarming.dll - allows you to AoE farm harvest and plant
+
 # G-Portal Server Notes
 
-- Requires manual update of Jotunn, and MultiUserChest mods, sourced from the respective libs in this repo.
+- Requires manual update of Jotunn, HeightmapUnlimited, and MultiUserChest mods, sourced from the respective libs in this repo.
